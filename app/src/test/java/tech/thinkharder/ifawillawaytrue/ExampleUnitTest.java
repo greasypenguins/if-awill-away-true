@@ -1,4 +1,4 @@
-package tech.thinkharder.if_awill_away_true;
+package tech.thinkharder.ifawillawaytrue;
 
 import org.junit.Test;
 

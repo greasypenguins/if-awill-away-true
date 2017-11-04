@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tech.thinkharder.if_awill_away_true">
+    package="tech.thinkharder.ifawillawaytrue">
 
     <application
         android:allowBackup="true"

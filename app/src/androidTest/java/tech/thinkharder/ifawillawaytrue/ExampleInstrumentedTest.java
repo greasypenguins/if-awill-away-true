@@ -1,4 +1,4 @@
-package tech.thinkharder.if_awill_away_true;
+package tech.thinkharder.ifawillawaytrue;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("tech.thinkharder.if_awill_away_true", appContext.getPackageName());
+        assertEquals("tech.thinkharder.ifawillawaytrue", appContext.getPackageName());
     }
 }
